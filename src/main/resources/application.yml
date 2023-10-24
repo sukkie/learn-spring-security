@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: off
+  datasource:
+    url: jdbc:h2:mem:testdb
+
+#  security:
+#    user:
+#      name: oyle
+#      password: qwer1234
+
